@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+header{
+    text-align:center;
+    font-size: 25px;
+    background-color: red
+}
+main{
+    width: 80%;
+    margin:30px auto 0px auto;
+}
+img{
+    margin: 20px 0 20px 0;
+    width: 100%;
+    
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+}
+p{
+   text-align: justify;
+}
